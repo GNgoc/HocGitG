@@ -24,7 +24,7 @@ namespace WinFormsApp1
         Ngày em Đến;
             ngày em đi;
             em đi luôn;
-
+            println(" this is app");
         
     }
 }
