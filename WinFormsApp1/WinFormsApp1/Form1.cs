@@ -19,16 +19,7 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
-        }
-        Ngày em Đến;
-            ngày em đi;
-            em đi luôn;
-            println(" this is app");
-        private void main()
-        {
 
         }
-        
     }
 }
