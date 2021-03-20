@@ -21,7 +21,8 @@ namespace WinFormsApp1
         {
             
         }
-        Ngày em Đến
+        Ngày em Đến;
+            ngày em đi;
 
         
     }
