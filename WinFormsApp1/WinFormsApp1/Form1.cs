@@ -25,6 +25,10 @@ namespace WinFormsApp1
             ngày em đi;
             em đi luôn;
             println(" this is app");
+        private void main()
+        {
+
+        }
         
     }
 }
