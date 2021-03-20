@@ -20,6 +20,7 @@ namespace WinFormsApp1
         private void Form1_Load(object sender, EventArgs e)
         {
             //Em không là nàng thơ.
+            // Ớ Ớ Ớ
         }
     }
 }
